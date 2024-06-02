@@ -90,4 +90,3 @@ const trackEmployeeData = function() {
 // Add event listener to 'Add Employees' button
 const addEmployeesBtn = document.querySelector('#add-employees-btn');
 addEmployeesBtn.addEventListener('click', trackEmployeeData);
-
